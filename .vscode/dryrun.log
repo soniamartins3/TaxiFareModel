@@ -1,0 +1,4 @@
+make: Entering directory '/home/sonia/code/soniamartins3/TaxiFareModel'
+pip install -r requirements.txt
+make: Leaving directory '/home/sonia/code/soniamartins3/TaxiFareModel'
+ 
